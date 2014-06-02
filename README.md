@@ -1,4 +1,4 @@
-repeated_games_fsa-
+repeated_games_fsa
 ===================
 
-Repeated Games played by Finite State Automata
+Repeated Games played by Finite State Automata.
